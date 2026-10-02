@@ -6,3 +6,8 @@
   Register a file type with an application
 * [RegisterFileType.cmd.md](./RegisterFileType.cmd.md) <br>
   Register a file type.
+* [RegisterTemplate.ps1.md](./RegisterTemplate.ps1.md) <br>
+  Register a document template.<br>
+  Windows Explorer can create the document from context menu
+* [RegisterTemplate.cmd.md](./RegisterTemplate.cmd.md) <br>
+  Call `RegisterTemplate.ps1`
