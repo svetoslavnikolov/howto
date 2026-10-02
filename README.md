@@ -4,3 +4,5 @@
   Install some useful tools in Windows
 * [RegisterFileType.ps1.md](./RegisterFileType.ps1.md) <br>
   Register a file type with an application
+* [RegisterFileType.cmd.md](./RegisterFileType.cmd.md) <br>
+  Register a file type.
