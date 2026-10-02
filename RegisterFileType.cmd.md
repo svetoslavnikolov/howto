@@ -1,4 +1,4 @@
-```
+```BATCH
 @echo off
 setlocal
 
