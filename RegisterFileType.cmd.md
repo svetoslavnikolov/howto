@@ -1,4 +1,8 @@
 ```BATCH
+
+@REM Register a file type to be opened with an application.
+@REM Both APPLICATION.exe and APPLICATION.ico are expected in the same path.
+
 @echo off
 setlocal
 
